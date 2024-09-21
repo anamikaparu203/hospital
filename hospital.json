@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "PRS Hospital",
+      "patientCount": 20,
+      "location": "TVM"
+    },
+    {
+      "id": 2,
+      "name": "SK Hospital",
+      "patientCount": 150,
+      "location": "New City"
+    },
+    {
+      "id": 3,
+      "name": "Apollo Hospital",
+      "patientCount": 50,
+      "location": "Kannur"
+    }
+  ]
